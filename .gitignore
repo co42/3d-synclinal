@@ -1,5 +1,6 @@
-height-map-raw/**
-model/**
+height-map-raw/
+model/
+backup/
 height-map.tif
 
 .DS_Store
